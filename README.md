@@ -1,2 +1,2 @@
-# .github
-Garage-Ware Public Profile
+# Garage-Ware Games
+Public Profile
