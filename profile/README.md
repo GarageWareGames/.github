@@ -12,9 +12,11 @@ Our mission is to provide affordable tools used to create amazing applications
 ### 📍 About the Founder & Studio
 Located in Gardnerville, Nevada, Garage‑Ware Games was founded by a father, son team that are experienced technologist with decades of enterprise software, automation, and database programming expertise — now channeled into indie development.
 
-Website: https://www.garage-ware.com
+**Website:** https://www.garage-ware.com
 
-YouTube: https://www.youtube.com/@GarageWareGames
+**YouTube:** https://www.youtube.com/@GarageWareGames
+
+**X:** https://x.com/GarageWareGames
 
 Unity Asset Store: https://prf.hn/l/LABBOeQ/
 
