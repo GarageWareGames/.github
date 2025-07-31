@@ -19,7 +19,7 @@ YouTube: https://www.youtube.com/@GarageWareGames
 Unity Asset Store: https://prf.hn/l/LABBOeQ/
 
 ### 🛠 Technologies Used
-Unity 6 & C# scripting with a focus on Editor Tools leveraging Unity’s UI Toolkit
+Unity 6 & C# scripting with a focus on Editor and Runtime Tools leveraging Unity’s UI Toolkit
 
 Audio Tools with a focus on Unity fMod integration
 
