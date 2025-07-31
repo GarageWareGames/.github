@@ -5,7 +5,6 @@ Creators of innovative Unity assets, developer tools, and game-programming-relat
 ## Repository Purpose
 This repo is used to publish the source code offered in our tutorials. These tutorials are meant to help the community and enhance the use of the tools we create.
 
-
 ### 🎯 Mission & Philosophy
 Our mission is to provide affordable tools used to create amazing applications
 
@@ -18,7 +17,7 @@ Located in Gardnerville, Nevada, Garage‑Ware Games was founded by a father, so
 
 **X:** https://x.com/GarageWareGames
 
-Unity Asset Store: https://prf.hn/l/LABBOeQ/
+**Unity Asset Store:** https://prf.hn/l/LABBOeQ/
 
 ### 🛠 Technologies Used
 Unity 6 & C# scripting with a focus on Editor and Runtime Tools leveraging Unity’s UI Toolkit
